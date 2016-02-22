@@ -1,9 +1,9 @@
 {
-  "name": "Week07-ElfLogBower",
+  "name": "evans-tools",
   "authors": [
     "Lisa Evans"
   ],
-  "description": "using elfLog on client-side",
+  "description": "misc tools for bower install",
   "main": "index.js",
   "moduleType": [],
   "keywords": [
