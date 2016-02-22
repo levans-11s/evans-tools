@@ -1,0 +1,21 @@
+{
+  "name": "Week07-ElfLogBower",
+  "authors": [
+    "Lisa Evans"
+  ],
+  "description": "using elfLog on client-side",
+  "main": "index.js",
+  "moduleType": [],
+  "keywords": [
+    "chiantiware"
+  ],
+  "license": "MIT",
+  "homepage": "http://sites.google.com/site/chiantiware/",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
