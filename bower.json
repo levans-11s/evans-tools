@@ -3,14 +3,15 @@
   "authors": [
     "Lisa Evans"
   ],
-  "description": "misc tools for bower install",
+  "description": "misc tools installable with bower",
   "main": "index.js",
   "moduleType": [],
   "keywords": [
-    "chiantiware"
+    "ElfLog"
   ],
   "license": "MIT",
-  "homepage": "http://sites.google.com/site/chiantiware/",
+  "homepage": "",
+  "private": false,
   "ignore": [
     "**/.*",
     "node_modules",
