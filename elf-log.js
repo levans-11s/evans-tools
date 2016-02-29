@@ -16,11 +16,18 @@
     //var levels = ['error', 'warn', 'info', 'silent'];
     var that;
 
-    ElfLog.prototype.logLevelError = 0;
+    /* ElfLog.prototype.logLevelError = 0;
     ElfLog.prototype.logLevelWarn = 1;
     ElfLog.prototype.logLevelDetails = 2;
     ElfLog.prototype.logLevelInfo = 3;
-    ElfLog.prototype.logLevelSilent = 4;
+    ElfLog.prototype.logLevelSilent = 4; */
+
+    ElfLog.logLevelMinorDetails = 0;
+    ElfLog.logLevelDetails = 1;
+    ElfLog.logLevelWarn = 2;
+    ElfLog.logLevelError = 3;
+    ElfLog.logLevelInfo = 4;
+    ElfLog.logLevelSilent = 5;
 
     ElfLog.prototype.debugLevel = undefined;
 
