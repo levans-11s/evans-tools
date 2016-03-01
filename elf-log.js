@@ -22,12 +22,12 @@
     ElfLog.prototype.logLevelInfo = 3;
     ElfLog.prototype.logLevelSilent = 4; */
 
-    ElfLog.logLevelMinorDetails = 0;
-    ElfLog.logLevelDetails = 1;
-    ElfLog.logLevelWarn = 2;
-    ElfLog.logLevelError = 3;
-    ElfLog.logLevelInfo = 4;
-    ElfLog.logLevelSilent = 5;
+    ElfLog.prototype.logLevelMinorDetails = 0;
+    ElfLog.prototype.logLevelDetails = 1;
+    ElfLog.prototype.logLevelWarn = 2;
+    ElfLog.prototype.logLevelError = 3;
+    ElfLog.prototype.logLevelInfo = 4;
+    ElfLog.prototype.logLevelSilent = 5;
 
     ElfLog.prototype.debugLevel = undefined;
 
